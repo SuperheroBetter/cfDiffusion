@@ -2,7 +2,7 @@
 
 
 
-![cfDiffusion_architecure](F:\cfDiffusion_code\cfDiffusion_architecure.png)
+![cfDiffusion_architecure](./cfDiffusion_architecure.png)
 
 # Environment
 ```
